@@ -1,0 +1,1 @@
+"""OmniLibrarian shared application package."""

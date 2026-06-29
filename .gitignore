@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.test_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+.idea/
+.agents/
+.codex/
+
+qdrant_storage/
+*.log
+
+# Local ingestion/runtime artifacts.
+data/cache/*
+!data/cache/.gitkeep
+data/raw/**
+!data/raw/
+!data/raw/**/
+!data/raw/**/.gitkeep
+data/processed/**
+!data/processed/
+!data/processed/**/
+!data/processed/**/.gitkeep
+
+# Generated eval outputs. Golden eval sets stay committed.
+data/evals/*_results.json
+
+.DS_Store
+Thumbs.db

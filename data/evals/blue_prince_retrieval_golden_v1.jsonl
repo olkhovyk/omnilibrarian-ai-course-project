@@ -1,0 +1,14 @@
+{"id":"bp_rooms_overview","game_id":"blue_prince","query":"What are rooms in Blue Prince?","expected_titles":["Rooms"],"expected_terms":["room"],"category":"rooms"}
+{"id":"bp_parlor","game_id":"blue_prince","query":"What is the Parlor room?","expected_titles":["Parlor"],"expected_terms":["Parlor"],"category":"rooms"}
+{"id":"bp_room_46","game_id":"blue_prince","query":"What is Room 46?","expected_titles":["Room 46"],"expected_terms":["Room 46"],"category":"rooms"}
+{"id":"bp_drafting_studio","game_id":"blue_prince","query":"What does the Drafting Studio do?","expected_titles":["Drafting Studio"],"expected_terms":["Drafting"],"category":"rooms"}
+{"id":"bp_blueprints","game_id":"blue_prince","query":"How do blueprints work?","expected_titles":["Blueprints"],"expected_terms":["blueprint"],"category":"mechanics"}
+{"id":"bp_mechanical_rooms","game_id":"blue_prince","query":"What are mechanical rooms?","expected_titles":["Mechanical Rooms"],"expected_terms":["mechanical"],"category":"rooms"}
+{"id":"bp_items","game_id":"blue_prince","query":"What items exist in Blue Prince?","expected_titles":["Items"],"expected_terms":["item"],"category":"items"}
+{"id":"bp_family_core_puzzle","game_id":"blue_prince","query":"How does the Family Core Puzzle work?","expected_titles":["Family Core Puzzle"],"expected_terms":["family core","puzzle"],"category":"puzzles"}
+{"id":"bp_castling_puzzle","game_id":"blue_prince","query":"What is the Castling Puzzle?","expected_titles":["Castling Puzzle"],"expected_terms":["castling","puzzle"],"category":"puzzles"}
+{"id":"bp_orindia_history","game_id":"blue_prince","query":"What is the History of Orindia?","expected_titles":["The History of Orindia (2nd ed.)","The History of Orindia (1st ed.)"],"expected_terms":["Orindia"],"category":"lore"}
+{"id":"bp_blue_tents_story","game_id":"blue_prince","query":"What are Blue Tents in the story?","expected_titles":["Blue Tents"],"expected_terms":["Blue Tents"],"category":"lore"}
+{"id":"bp_drafting_progression","game_id":"blue_prince","query":"How does drafting progression work?","expected_titles":["Drafting"],"expected_terms":["drafting"],"category":"mechanics"}
+{"id":"bp_reddit_room_46_hint","game_id":"blue_prince","query":"I am stuck on Room 46, give me a spoiler-light hint","expected_titles":["Megathread v3 - Post and ask hints for puzzles here"],"expected_source_ids":["blue_prince_reddit"],"expected_terms":["hint","Room 46"],"category":"community_hints"}
+{"id":"bp_reddit_family_core_hint","game_id":"blue_prince","query":"Any community hint for the Family Core Puzzle without full spoilers?","expected_titles":["Megathread v3 - Post and ask hints for puzzles here"],"expected_source_ids":["blue_prince_reddit"],"expected_terms":["hint","Family Core"],"category":"community_hints"}

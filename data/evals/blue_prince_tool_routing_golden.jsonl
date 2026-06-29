@@ -1,0 +1,5 @@
+{"id":"blue_prince_tool_parlor_hint","game_id":"blue_prince","query":"I am stuck on the parlor puzzle, give me a hint","expected_tool":"search_puzzle_hint","category":"hint"}
+{"id":"blue_prince_tool_room_46_hint","game_id":"blue_prince","query":"How do I solve the Room 46 puzzle?","expected_tool":"search_puzzle_hint","category":"hint"}
+{"id":"blue_prince_tool_ukrainian_hint","game_id":"blue_prince","query":"Дай підказку для головоломки у Blue Prince","expected_tool":"search_puzzle_hint","category":"hint"}
+{"id":"blue_prince_tool_general_lore_no_tool","game_id":"blue_prince","query":"Who is the baron in Blue Prince?","expected_tool":null,"category":"direct_rag"}
+{"id":"blue_prince_tool_room_fact_no_tool","game_id":"blue_prince","query":"What is the Parlor room?","expected_tool":null,"category":"direct_rag"}

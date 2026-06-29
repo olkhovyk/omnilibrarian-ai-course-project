@@ -1,0 +1,8 @@
+{"id":"bg3_tool_compare_fireball_lightning","game_id":"bg3","query":"Compare Fireball and Lightning Bolt","expected_tool":"compare_bg3_spells","category":"comparison"}
+{"id":"bg3_tool_compare_magic_missile_eldritch_blast","game_id":"bg3","query":"Compare Magic Missile and Eldritch Blast","expected_tool":"compare_bg3_spells","category":"comparison"}
+{"id":"bg3_tool_compare_fireball_lightning_uk","game_id":"bg3","query":"Порівняй Fireball з Lightning Bolt","expected_tool":"compare_bg3_spells","category":"comparison"}
+{"id":"bg3_tool_list_companions","game_id":"bg3","query":"List all companions","expected_tool":"list_bg3_companions","category":"list"}
+{"id":"bg3_tool_list_companions_uk","game_id":"bg3","query":"Покажи всіх компаньйонів","expected_tool":"list_bg3_companions","category":"list"}
+{"id":"bg3_tool_fireball_damage_no_tool","game_id":"bg3","query":"Fireball damage","expected_tool":null,"category":"direct_rag"}
+{"id":"bg3_tool_who_astarion_no_tool","game_id":"bg3","query":"Who is Astarion?","expected_tool":null,"category":"direct_rag"}
+{"id":"bg3_tool_shadowheart_no_tool","game_id":"bg3","query":"Who is Shadowheart?","expected_tool":null,"category":"direct_rag"}

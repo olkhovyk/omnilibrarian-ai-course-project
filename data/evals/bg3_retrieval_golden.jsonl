@@ -1,0 +1,10 @@
+{"id":"bg3_fireball_damage_uk_typo","game_id":"bg3","query":"Яка шкода від fireballll?","expected_titles":["Fireball"],"category":"spell","expected_terms":["8d6","Fire damage"]}
+{"id":"bg3_fireball_damage_en","game_id":"bg3","query":"Fireball damage","expected_titles":["Fireball"],"category":"spell","expected_terms":["8d6","Fire damage"]}
+{"id":"bg3_lightning_bolt_damage_uk","game_id":"bg3","query":"Що таке lightning bolt і яку шкоду він завдає?","expected_titles":["Lightning Bolt"],"category":"spell","expected_terms":["8d6","Lightning"]}
+{"id":"bg3_astarion_who_uk","game_id":"bg3","query":"Хто такий Astarion?","expected_titles":["Astarion"],"category":"character","expected_terms":["vampire","rogue"]}
+{"id":"bg3_shadowheart_who_uk","game_id":"bg3","query":"Хто така Shadowheart?","expected_titles":["Shadowheart"],"category":"character","expected_terms":["cleric","Shar"]}
+{"id":"bg3_scroll_fireball","game_id":"bg3","query":"Scroll of Fireball","expected_titles":["Scroll of Fireball"],"category":"item","expected_terms":["Scroll","Fireball"]}
+{"id":"bg3_damage_types","game_id":"bg3","query":"Які є damage types?","expected_titles":["Damage Types"],"category":"mechanic","expected_terms":["Damage"]}
+{"id":"bg3_saving_throws","game_id":"bg3","query":"Як працюють saving throws?","expected_titles":["Saving throws"],"category":"mechanic","expected_terms":["Difficulty Class","saving throw"]}
+{"id":"bg3_barbarian_rage","game_id":"bg3","query":"Що дає Barbarian Rage?","expected_titles":["Barbarian","Rage"],"category":"class","expected_terms":["Rage"]}
+{"id":"bg3_compare_fireball_lightning_uk","game_id":"bg3","query":"Порівняй fireball з молнією що завдає більше шкоди","expected_titles":["Fireball","Lightning Bolt"],"category":"comparison","expected_terms":["8d6"]}

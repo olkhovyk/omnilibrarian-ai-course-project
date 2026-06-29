@@ -1,0 +1,30 @@
+{"id":"bg3_fireball_damage_en","game_id":"bg3","query":"Fireball damage","expected_titles":["Fireball"],"category":"spell","expected_terms":["8d6","Fire damage"]}
+{"id":"bg3_lightning_bolt_damage_en","game_id":"bg3","query":"Lightning Bolt damage","expected_titles":["Lightning Bolt"],"category":"spell","expected_terms":["8d6","Lightning"]}
+{"id":"bg3_haste_spell","game_id":"bg3","query":"What does Haste do?","expected_titles":["Haste"],"category":"spell","expected_terms":["Action","Armour Class"]}
+{"id":"bg3_counterspell","game_id":"bg3","query":"How does Counterspell work?","expected_titles":["Counterspell"],"category":"spell","expected_terms":["Reaction","spell"]}
+{"id":"bg3_misty_step","game_id":"bg3","query":"What is Misty Step?","expected_titles":["Misty Step"],"category":"spell","expected_terms":["Teleport"]}
+{"id":"bg3_spirit_guardians","game_id":"bg3","query":"What damage does Spirit Guardians do?","expected_titles":["Spirit Guardians"],"category":"spell","expected_terms":["Radiant","Necrotic"]}
+{"id":"bg3_astarion_who_en","game_id":"bg3","query":"Who is Astarion?","expected_titles":["Astarion"],"category":"character","expected_terms":["vampire","companion"]}
+{"id":"bg3_shadowheart_who_en","game_id":"bg3","query":"Who is Shadowheart?","expected_titles":["Shadowheart"],"category":"character","expected_terms":["cleric","Shar"]}
+{"id":"bg3_gale_who_en","game_id":"bg3","query":"Who is Gale?","expected_titles":["Gale"],"category":"character","expected_terms":["wizard"]}
+{"id":"bg3_karlach_who_en","game_id":"bg3","query":"Who is Karlach?","expected_titles":["Karlach"],"category":"character","expected_terms":["tiefling","barbarian"]}
+{"id":"bg3_laezel_who_en","game_id":"bg3","query":"Who is Lae'zel?","expected_titles":["Lae'zel"],"category":"character","expected_terms":["githyanki"]}
+{"id":"bg3_wyll_who_en","game_id":"bg3","query":"Who is Wyll?","expected_titles":["Wyll"],"category":"character","expected_terms":["warlock"]}
+{"id":"bg3_companions_en","game_id":"bg3","query":"Who are the companions in BG3?","expected_titles":["Companions"],"category":"character","expected_terms":["companion"]}
+{"id":"bg3_blood_of_lathander","game_id":"bg3","query":"What is Blood of Lathander?","expected_titles":["Blood of Lathander"],"category":"item","expected_terms":["mace","Lathander"]}
+{"id":"bg3_markoheshkir","game_id":"bg3","query":"What is Markoheshkir?","expected_titles":["Markoheshkir"],"category":"item","expected_terms":["quarterstaff"]}
+{"id":"bg3_phalar_aluve","game_id":"bg3","query":"What is Phalar Aluve?","expected_titles":["Phalar Aluve"],"category":"item","expected_terms":["longsword"]}
+{"id":"bg3_potion_of_speed","game_id":"bg3","query":"What does Potion of Speed do?","expected_titles":["Potion of Speed"],"category":"item","expected_terms":["Hastened"]}
+{"id":"bg3_scroll_fireball","game_id":"bg3","query":"Scroll of Fireball","expected_titles":["Scroll of Fireball"],"category":"item","expected_terms":["Scroll","Fireball"]}
+{"id":"bg3_advantage","game_id":"bg3","query":"How does Advantage work?","expected_titles":["Advantage"],"category":"mechanic","expected_terms":["roll"]}
+{"id":"bg3_concentration","game_id":"bg3","query":"How does Concentration work?","expected_titles":["Concentration"],"category":"mechanic","expected_terms":["spell"]}
+{"id":"bg3_initiative","game_id":"bg3","query":"How does Initiative work?","expected_titles":["Initiative"],"category":"mechanic","expected_terms":["turn"]}
+{"id":"bg3_armour_class","game_id":"bg3","query":"What is Armour Class?","expected_titles":["Armour Class"],"category":"mechanic","expected_terms":["attack"]}
+{"id":"bg3_damage_types","game_id":"bg3","query":"What are damage types?","expected_titles":["Damage Types"],"category":"mechanic","expected_terms":["Damage"]}
+{"id":"bg3_saving_throws","game_id":"bg3","query":"How do saving throws work?","expected_titles":["Saving throws"],"category":"mechanic","expected_terms":["Difficulty Class","saving throw"]}
+{"id":"bg3_rogue_class","game_id":"bg3","query":"What is Rogue class good at?","expected_titles":["Rogue"],"category":"class","expected_terms":["Sneak Attack"]}
+{"id":"bg3_wizard_class","game_id":"bg3","query":"What is Wizard class?","expected_titles":["Wizard"],"category":"class","expected_terms":["spell"]}
+{"id":"bg3_paladin_class","game_id":"bg3","query":"What is Paladin class?","expected_titles":["Paladin"],"category":"class","expected_terms":["Oath"]}
+{"id":"bg3_barbarian_rage","game_id":"bg3","query":"What does Barbarian Rage do?","expected_titles":["Barbarian","Rage"],"category":"class","expected_terms":["Rage"]}
+{"id":"bg3_compare_fireball_lightning_en","game_id":"bg3","query":"Compare Fireball and Lightning Bolt damage","expected_titles":["Fireball","Lightning Bolt"],"category":"comparison","expected_terms":["8d6"]}
+{"id":"bg3_astarion_uk_transliterated","game_id":"bg3","query":"Хто такий Астаріон?","expected_titles":["Astarion"],"category":"cross_lingual","expected_terms":["vampire","companion"]}

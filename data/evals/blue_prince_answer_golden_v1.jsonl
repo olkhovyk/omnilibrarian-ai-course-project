@@ -1,0 +1,5 @@
+{"id":"bp_answer_room_46","game_id":"blue_prince","query":"What is Room 46?","expected_source_titles":["Room 46"],"expected_answer_terms":["Room 46"],"category":"rooms"}
+{"id":"bp_answer_parlor","game_id":"blue_prince","query":"What is the Parlor room?","expected_source_titles":["Parlor"],"expected_answer_terms":["Parlor"],"category":"rooms"}
+{"id":"bp_answer_blueprints","game_id":"blue_prince","query":"How do blueprints work?","expected_source_titles":["Blueprints"],"expected_answer_terms":["blueprint"],"category":"mechanics"}
+{"id":"bp_answer_family_core_puzzle","game_id":"blue_prince","query":"How does the Family Core Puzzle work?","expected_source_titles":["Family Core Puzzle"],"expected_answer_terms":["Family Core",["puzzle","головолом"]],"category":"puzzles"}
+{"id":"bp_answer_blue_tents","game_id":"blue_prince","query":"What are Blue Tents in the story?","expected_source_titles":["Blue Tents"],"expected_answer_terms":["Blue Tents"],"category":"lore"}

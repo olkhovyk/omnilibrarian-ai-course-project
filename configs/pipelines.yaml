@@ -1,0 +1,46 @@
+defaults:
+  qdrant_url: http://localhost:6333
+  collection: omnilibrarian_chunks
+  embedding_model: BAAI/bge-m3
+  device: cuda
+
+games:
+  bg3:
+    sources:
+      wiki:
+        source_id: bg3_wiki
+        chunks_path: data/processed/bg3/bg3_wiki_chunks.jsonl
+        manifest_mode: category
+    entities_path: data/processed/bg3/bg3_wiki_entities.json
+    retrieval_golden: data/evals/bg3_retrieval_golden_v1.jsonl
+    retrieval_output: data/evals/bg3_retrieval_results.json
+    tool_routing_golden: data/evals/bg3_tool_routing_golden.jsonl
+    tool_routing_output: data/evals/bg3_tool_routing_results.json
+
+  blue_prince:
+    sources:
+      wiki:
+        source_id: blue_prince_wiki
+        chunks_path: data/processed/blue_prince/blue_prince_wiki_chunks.jsonl
+        manifest_mode: all
+        request_delay_seconds: 1.0
+        max_retries: 5
+        retry_backoff_seconds: 15.0
+      reddit:
+        source_id: blue_prince_reddit
+        chunks_path: data/processed/blue_prince/blue_prince_reddit_chunks.jsonl
+        allow_empty: true
+        request_delay_seconds: 1.0
+        max_retries: 3
+        retry_backoff_seconds: 10.0
+    primary_bm25_source: wiki
+    bm25_sources:
+      - wiki
+      - reddit
+    entities_path: data/processed/blue_prince/blue_prince_wiki_entities.json
+    retrieval_golden: data/evals/blue_prince_retrieval_golden_v1.jsonl
+    retrieval_output: data/evals/blue_prince_retrieval_results.json
+    tool_routing_golden: data/evals/blue_prince_tool_routing_golden.jsonl
+    tool_routing_output: data/evals/blue_prince_tool_routing_results.json
+    answer_golden: data/evals/blue_prince_answer_golden_v1.jsonl
+    answer_output: data/evals/blue_prince_answer_results.json

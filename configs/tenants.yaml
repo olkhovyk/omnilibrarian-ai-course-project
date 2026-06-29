@@ -1,0 +1,16 @@
+{
+  "tenants": [
+    {
+      "game_id": "bg3",
+      "display_name": "Baldur's Gate 3",
+      "description": "Knowledge base for Baldur's Gate 3 spells, items, classes, and dice helpers.",
+      "mcp_server": "bg3"
+    },
+    {
+      "game_id": "blue_prince",
+      "display_name": "Blue Prince",
+      "description": "Knowledge base for Blue Prince rooms, items, and puzzle hints.",
+      "mcp_server": "blue_prince"
+    }
+  ]
+}
