@@ -9,7 +9,7 @@ games:
     sources:
       wiki:
         source_id: bg3_wiki
-        chunks_path: data/processed/bg3/bg3_wiki_chunks.jsonl
+        chunks_path: data/processed/bg3/bg3_wiki_seed107_chunks.jsonl
         manifest_mode: category
     entities_path: data/processed/bg3/bg3_wiki_entities.json
     retrieval_golden: data/evals/bg3_retrieval_golden_v1.jsonl
